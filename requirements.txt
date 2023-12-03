@@ -1,0 +1,6 @@
+huggingface_hub
+transformers
+datasets
+evaluate
+accelerate
+seqeval

@@ -18,6 +18,24 @@ This repository contains the code and datasets for the Nepali Offensive Language
 - Jupyter Notebook
 - Libraries: PyTorch, Transformers, scikit-learn, pandas, numpy, matplotlib, seaborn, and any other dependencies mentioned in the notebooks.
 
+## Running on Local Machine
+
+1. Clone the Repository:
+ - Open a terminal.
+ - Run the following command to clone the repository:
+
+ ```bash
+ git clone https://github.com/merishnaSuwal/nep-off-langdetect.git
+```
+
+2. Navigate to Folder and install the dependencies:
+
+```bash
+cd nep-off-langdetect
+pip install -r requirements.txt
+```
+
+
 ## Running the Code
 
 1. Navigate to the respective subfolder (`NepSA` or `NepNER`) using the Jupyter Notebook or Google Colab.
