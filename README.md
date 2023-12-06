@@ -2,6 +2,24 @@
 
 This repository contains the code and datasets for the Nepali Offensive Language Detection and Sentiment Analysis project.
 
+## Abstract
+
+Addressing offensive content in the digital realm has become crucial with the widespread use of online platforms and social media. However, the challenges posed by linguistic diversity make pre-trained models, originally designed for English or other languages, less effective in multilingual contexts. In response to this, our research aims to comprehensively explore the limitations and challenges associated with applying pre-trained models to multilingual offensive language detection tasks.
+
+This paper focuses on developing and evaluating a system specifically designed for identifying offensive entities in Nepali, aiming to improve content moderation tools and foster safer online spaces for the Nepali-speaking community. The research extensively investigates the effectiveness of various pre-trained BERT architectures for Named Entity Recognition (NER), with a specific emphasis on aspect term extraction to accurately categorize abusive entities in Nepali text. Additionally, the study extends its scope to Sentiment Analysis (SA), concentrating on sentiment classification in the Nepali language. Through this dual approach, our research strives to augment content moderation tools and create safer online spaces for the Nepali-speaking community. Ultimately, our goal is to pave the way for enhanced cross-linguistic understanding and improved model performance across diverse languages. 
+
+## Objectives
+
+- Develop and evaluate a system tailored for identifying offensive entities in Nepali, contributing to the improvement of content moderation tools and the creation of safer online spaces for the Nepali-speaking community.
+
+- Investigate the effectiveness of various pre-trained BERT architectures, with a specific focus on Named Entity Recognition (NER) for aspect term extraction. The goal is to accurately categorize abusive entities in Nepali text.
+
+- Extend the research scope to include Sentiment Analysis (SA), concentrating on sentiment classification in the Nepali language. This dual approach aims to enhance content moderation tools and establish safer online spaces for the Nepali-speaking community.
+
+## Key Features
+
+- In-depth exploration of linguistic challenges in offensive language detection for a multilingual context.
+- Evaluation of pre-trained BERT architectures for Nepali, with a particular emphasis on Aspect term extraction using NER and comprehensive analysis of sentiment classification in detecting Offensive Nepali language.
 ## Folder Structure
 
 - **NepSA:** Code and resources for the Sentiment Analysis task.
@@ -36,12 +54,7 @@ pip install -r requirements.txt
 ```
 
 
-## Running the Code
+## Running the Code on Google Colab
 
-1. Navigate to the respective subfolder (`NepSA` or `NepNER`) using the Jupyter Notebook or Google Colab.
-2. Ensure that the required dependencies are installed. You can use the following command to install them:
-
-   ```bash
-   pip install -r requirements.txt
-   
-3. Open the Jupyter notebooks and execute the cells one by one.
+1. Import the notebook in Google Colab.
+2. Ensure that the required dependencies are installed and execute the cells one by one.
