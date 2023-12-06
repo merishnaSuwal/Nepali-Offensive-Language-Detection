@@ -31,6 +31,10 @@ This paper focuses on developing and evaluating a system specifically designed f
   - **datasets:** Folder containing datasets related to NER.
   - **NepNER.ipynb:** Jupyter notebook for running the NER code.
 
+- **Paper_and_Slides:** Contains the paper and powerpoint slides for the project.
+
+- **nepsa-nepner-inference:** Contains code to inference on saved models.
+
 ## Dependencies
 
 - Python 3.x
