@@ -20,6 +20,7 @@ This paper focuses on developing and evaluating a system specifically designed f
 
 - In-depth exploration of linguistic challenges in offensive language detection for a multilingual context.
 - Evaluation of pre-trained BERT architectures for Nepali, with a particular emphasis on Aspect term extraction using NER and comprehensive analysis of sentiment classification in detecting Offensive Nepali language.
+
 ## Folder Structure
 
 - **NepSA:** Code and resources for the Sentiment Analysis task.
@@ -53,8 +54,25 @@ cd nep-off-langdetect
 pip install -r requirements.txt
 ```
 
+3. Run Experiments:
+Explore the Jupyter notebooks and scripts in the repository to run experiments, evaluate models, and analyze results.
+
 
 ## Running the Code on Google Colab
 
 1. Import the notebook in Google Colab.
 2. Ensure that the required dependencies are installed and execute the cells one by one.
+
+## Results
+
+Our research strives to contribute valuable insights into the effectiveness of pre-trained models for offensive language detection in Nepali. The findings are detailed in the corresponding research [paper](Paper/NLP_Offensive_language_Nepali_Paper_submission.pdf), highlighting advancements in aspect term extraction and sentiment analysis for the Nepali language.
+
+## Future Work
+
+The project opens avenues for future research focusing on:
+
+Continued refinement of offensive language detection models for Nepali.
+
+Exploration of additional linguistic nuances and dialects within the Nepali language.
+
+Collaboration with the community to address specific challenges and further improve model performance.
