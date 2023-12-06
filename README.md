@@ -71,8 +71,14 @@ Our research strives to contribute valuable insights into the effectiveness of p
 
 The project opens avenues for future research focusing on:
 
-Continued refinement of offensive language detection models for Nepali.
+- Continued refinement of offensive language detection models for Nepali.
+- Exploration of additional linguistic nuances and dialects within the Nepali language.
+- Collaboration with the community to address specific challenges and further improve model performance.
 
-Exploration of additional linguistic nuances and dialects within the Nepali language.
+## Contributors
 
-Collaboration with the community to address specific challenges and further improve model performance.
+- Merishna Singh Suwal
+- Sujan Bhusal
+- Drishtant Regmi
+
+Feel free to contribute to this project by forking the repository and submitting pull requests.
