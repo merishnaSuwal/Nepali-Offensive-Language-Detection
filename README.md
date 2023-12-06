@@ -63,9 +63,11 @@ Explore the Jupyter notebooks and scripts in the repository to run experiments, 
 1. Import the notebook in Google Colab.
 2. Ensure that the required dependencies are installed and execute the cells one by one.
 
-## Results
+## Results and more information
 
 Our research strives to contribute valuable insights into the effectiveness of pre-trained models for offensive language detection in Nepali. The findings are detailed in the corresponding research [paper](Paper/NLP_Offensive_language_Nepali_Paper_submission.pdf), highlighting advancements in aspect term extraction and sentiment analysis for the Nepali language.
+
+You can also view the demo presentation of this project on [YouTube](https://www.youtube.com/watch?v=O6G8Vg8oCOE).
 
 ## Future Work
 
